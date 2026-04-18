@@ -39,3 +39,8 @@ MIT License
 ---
 
 Built by [The BookMaster](https://github.com/Retsumdk) with [Zo Computer](https://zo.computer)
+
+## 🔗 Related Repos
+- [rate-limiter-middleware](https://github.com/Retsumdk/rate-limiter-middleware) — Token bucket rate limiting
+- [request-id-middleware](https://github.com/Retsumdk/request-id-middleware) — Distributed tracing
+- [health-check-monitor](https://github.com/Retsumdk/health-check-monitor) — Service health monitoring
