@@ -12,7 +12,7 @@ IP whitelist gateway with CIDR support
 - Production-ready code
 - TypeScript/Python with full type safety
 - Comprehensive error handling
-- Built with Zo Computer by The BookMaster
+- Built by Retsumdk
 
 ## Installation
 
@@ -38,7 +38,7 @@ MIT License
 
 ---
 
-Built by [The BookMaster](https://github.com/Retsumdk) with [Zo Computer](https://zo.computer)
+Built by [Retsumdk](https://github.com/Retsumdk)
 
 ## 🔗 Related Repos
 - [rate-limiter-middleware](https://github.com/Retsumdk/rate-limiter-middleware) — Token bucket rate limiting
